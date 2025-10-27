@@ -2,7 +2,7 @@
 
 Este script de Python descarga todos los segmentos de un stream de video (HLS con manifiesto JSON personalizado) y los convierte en un único archivo `audio_final.mp3`.
 
-Está diseñado para el sistema de streaming de `sesiones.senado.cl`, que utiliza parámetros dinámicos y un manifiesto ofuscado para proteger su contenido.
+Está diseñado para el sistema de streaming de `sesiones.senado.cl`, que utiliza parámetros dinámicos y un manifiesto para proteger su contenido.
 
 ---
 
